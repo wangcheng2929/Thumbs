@@ -31,7 +31,7 @@ Thumbs.db
 
 # Android Studio
 *.iml
-.idea
+.idea/
 
 # Local IDEA workspace
 .idea/workspace.xml
