@@ -1,2 +1,1 @@
-# Thumbs
-模仿即可点赞动画效果控件
+![Abount](https://github.com/wangcheng2929/Thumbs/blob/master/pic/demo.gif):
